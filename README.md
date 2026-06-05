@@ -31,7 +31,6 @@ Para la arquitectura, maquetación y despliegue de esta plataforma, he seleccion
 * **Visualización Modular de Competencias:** Organización lógica y segmentada de lenguajes de programación, frameworks y bases de datos mediante un sistema de tarjetas visuales interactivo.
 * **Canales de Comunicación Directos:** Integración de protocolos nativos (enlaces tipo `[mail.google.com/mail/?view=cm&fs=1&to]`) y accesos a redes profesionales que reducen la fricción, permitiendo un contacto inmediato con reclutadores y colaboradores.
 
-Portfolio personal desarrollado con HTML, CSS y Bootstrap 5.
 
 ---
 
