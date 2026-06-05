@@ -29,7 +29,7 @@ Para la arquitectura, maquetación y despliegue de esta plataforma, he seleccion
 * **Diseño Responsivo y Adaptativo:** Interfaz de usuario optimizada para ofrecer una experiencia de navegación fluida en cualquier resolución, abarcando desde dispositivos móviles y tablets hasta pantallas de escritorio.
 * **Código Limpio y Mantenible (*Clean Code*):** Estructuración basada rigurosamente en las clases de utilidad de Bootstrap. Esto minimiza el uso de estilos personalizados *inline*, lo que reduce la deuda técnica y facilita futuras escalabilidades del software.
 * **Visualización Modular de Competencias:** Organización lógica y segmentada de lenguajes de programación, frameworks y bases de datos mediante un sistema de tarjetas visuales interactivo.
-* **Canales de Comunicación Directos:** Integración de protocolos nativos (enlaces tipo `mailto:`) y accesos a redes profesionales que reducen la fricción, permitiendo un contacto inmediato con reclutadores y colaboradores.
+* **Canales de Comunicación Directos:** Integración de protocolos nativos (enlaces tipo `[mail.google.com/mail/?view=cm&fs=1&to]`) y accesos a redes profesionales que reducen la fricción, permitiendo un contacto inmediato con reclutadores y colaboradores.
 
 Portfolio personal desarrollado con HTML, CSS y Bootstrap 5.
 
@@ -52,4 +52,4 @@ Portfolio personal desarrollado con HTML, CSS y Bootstrap 5.
 
 # Enlace
 
-| **[Enlace](https://portfolio-dusky-iota-54.vercel.app/#proyectos)** | )
+ **[Enlace](https://portfolio-dusky-iota-54.vercel.app/#proyectos)** 
